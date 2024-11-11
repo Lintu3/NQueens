@@ -3,7 +3,7 @@ package nqueens;
 
 /**
  *
- * @author Opinto LL
+ * @author Lintu3
  */
 import java.util.Scanner;
 
